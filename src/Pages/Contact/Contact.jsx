@@ -6,7 +6,12 @@ import { Loader } from '@mantine/core';
 const Contact = () => {
   const form = useRef();
   const [isLoading, setIsLoading] = useState(false)
-
+  const message =()=>{
+    var Name = document.getElementById('name');
+    var email = document.getElementById('email');
+    var msg = document.getElementById('msg');
+    const success = document.getElementById('success'); 
+  }
   const sendEmail = (e) => {
     setIsLoading(true);
     e.preventDefault();
@@ -26,13 +31,7 @@ const Contact = () => {
           console.log(error.text);
       });
   };
-const message =()=>{
-  var Name = document.getElementById('name');
-  var email = document.getElementById('email');
-  var msg = document.getElementById('msg');
-  const success = document.getElementById('success');
-  
-}
+
   return (
     <section class="bg-white dark:bg-gray-900 h-[555px] mt-10 mb-8 max-[768px]:m-auto max-[768px]:mb-4 rounded-2xl max-[900px]:mr-2">
   <div class="py-8 lg:py-4 px-6 mx-auto max-w-screen-md flex flex-col items-center">
