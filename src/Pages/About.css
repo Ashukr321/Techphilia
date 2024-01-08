@@ -1,0 +1,12 @@
+.container-about{
+    box-shadow: 5px 14px 40px -13px rgba(125,162,243,1);
+}
+/* media query for hiding the banner_image */
+@media only screen and (max-width: 480px) {
+    .about_banner_img{
+        visibility: hidden;
+    } 
+}
+
+
+
