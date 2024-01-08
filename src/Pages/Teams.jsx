@@ -4,11 +4,13 @@ import Developer from '../Data/TechTeam'
 import Sponsor from '../Data/Sponsors'
 import Members from '../Data/Members'
 
+
 function Teams() {
+    
   return (
     <div className='flex flex-col w-full justify-center align-center top-[3rem]'>
    
-    <div className='teams w-full justify-center align-center grid lg:grid-cols-4 md:p-24   '>
+    <div className='teams w-full justify-center align-center grid lg:grid-cols-4 md:p-24    '>
         {
             Developer.map((teams,index)=>{
                 return(
@@ -18,7 +20,7 @@ function Teams() {
             
         } 
     </div>
-    <div className=' teams w-full justify-center align-center grid lg:grid-cols-4 md:p-24   '>
+    <div className=' teams w-full justify-center align-center grid lg:grid-cols-4 md:p-24   ' >
         {
             Members.map((teams,index)=>{
                 return(

@@ -4,7 +4,7 @@ import Logo from './linkedin.png'
 
 export default function LinkedIn({profile}) {
   return (
-    <a href={profile}>
+    <a href={profile} target='_blank'>
 
     <div className='linkedin-base'>
 
