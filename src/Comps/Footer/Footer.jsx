@@ -50,7 +50,7 @@ export default function Footer() {
 
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href=""
+                        href="https://amity.edu/Bihar/" target="_blank"
                       ><i className="uil uil-university pr-2" style={{color:"#EA16C5"}} ></i>
                        Amity University,Patna
                        
