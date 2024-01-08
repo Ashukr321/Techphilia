@@ -32,12 +32,7 @@ export default function Home() {
           </button>
         </div>
       </div>
-      <section>
-        <video width="100%" height="100%" controls autoplay>
-          <source src="/Techphilia 7.0 Teaser (1).mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-      </section>
+      
     </>
   );
 }
