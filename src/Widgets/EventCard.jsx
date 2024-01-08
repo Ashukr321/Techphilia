@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useState } from 'react'
 import '../Widgets/EventCardStyle.css'
 import PlaceHolder from '../assets/logo_amity.png'
 import { ClipLoader } from 'react-spinners';
@@ -7,12 +7,15 @@ import { Button } from '@mantine/core';
 import { useDisclosure } from '@mantine/hooks';
 import { Modal, useMantineTheme } from '@mantine/core';
 import { Divider } from '@mantine/core';
-
+import Aos from 'aos';
+import 'aos/dist/aos.css'
 export default function EventCard({ imgUrl, title, description, formUrl, rule }) {
   const [loaded, setLoaded] = useState(false)
   const [opened, { open, close }] = useDisclosure(false);
   const theme = useMantineTheme();
-
+  useEffect(()=>{
+    Aos.init();
+  })
 
   const [registerEnabled, setRegisterEnabled] = useState(false);
   return (
@@ -28,7 +31,7 @@ export default function EventCard({ imgUrl, title, description, formUrl, rule })
           blur: 3,
         }}
       >
-        <div className='flex  flex-col self-center'>
+        <div className='flex  flex-col self-center' >
           <img className='rounded-xl' src={imgUrl} alt="" />
           <p className='text-xl font-bold text-center '>{title}</p>
           <Divider my="sm" variant="dashed" />
@@ -42,7 +45,7 @@ export default function EventCard({ imgUrl, title, description, formUrl, rule })
           </a>
         </div>
       </Modal>
-    <div className='card-base m-auto mb-10 flex transition-all delay-100 ease-in-out' onMouseEnter={() => setRegisterEnabled(true)} onMouseLeave={() => setRegisterEnabled(false)}>
+    <div className='card-base m-auto mb-10 flex transition-all delay-100 ease-in-out' onMouseEnter={() => setRegisterEnabled(true)} onMouseLeave={() => setRegisterEnabled(false)} data-aos="fade-up">
       <div className={loaded ? "hidden" : "flex w-full event-img align-center justify-center"}>
         <ClockLoader color={"#ffffff"} loading />
       </div>

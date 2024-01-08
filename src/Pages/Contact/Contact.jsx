@@ -1,12 +1,15 @@
-import React, { useRef, useState } from 'react';
+import React, { useRef, useState,useEffect } from 'react';
 import emailjs from '@emailjs/browser';
 import { notifications } from '@mantine/notifications';
 import { Loader } from '@mantine/core';
-
+import Aos from 'aos';
+import 'aos/dist/aos.css'
 const Contact = () => {
   const form = useRef();
   const [isLoading, setIsLoading] = useState(false);
-
+  useEffect(()=>{
+    Aos.init({duration:"1000"})
+  })
   const sendEmail = async (e) => {
     e.preventDefault();
 
@@ -43,7 +46,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="bg-white dark:bg-gray-900 h-[555px] mt-10 mb-8 max-[768px]:m-auto max-[768px]:mb-4 rounded-2xl max-[900px]:mr-2">
+    <section data-aos="flip-down" className="bg-white dark:bg-gray-900 h-[555px] mt-10 mb-8 max-[768px]:m-auto max-[768px]:mb-4 rounded-2xl max-[900px]:mr-2">
       <div className="py-8 lg:py-4 px-6 mx-auto max-w-screen-md flex flex-col items-center">
         <h2 className="mb-4 text-4xl tracking-tight font-extrabold text-center text-gray-900 dark:text-white">Contact Us</h2>
         <p className="mb-4 lg:mb-4 font-light text-center text-gray-500 dark:text-gray-400 sm:text-xl">Feel Free to Contact Us for further any query</p>
