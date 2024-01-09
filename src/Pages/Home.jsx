@@ -12,8 +12,9 @@ export default function Home() {
           <p className="w-auto p-10 mr-2 amity-text text-white font-bold text-3xl max-[678px]:text-xl">
             Amity Univesity Patna{" "}
           </p>
-          <p className="amiphoria-text max-[678px]:text-7xl text">
-          TECHPHILIA 7.0
+          <p className="amiphoria-text max-[678px]:text-7xl text loader">
+          
+            TECHPHILIA 7.0
           </p>
           <p className="mb-10 font-[Kanit] text-xl max-[678px]:text-md">
             Come join us as we celebrate and indulge in the joys of life and
