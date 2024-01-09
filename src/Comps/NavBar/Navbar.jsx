@@ -7,18 +7,18 @@ export default function Navbar() {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <nav className="nav w-full backdrop-blur-sm fixed h-16 justify-between align-center flex z-20 ">
+    <nav style={{background:"#FFFBF5"}} className="nav w-full fixed h-16 justify-between align-center flex z-20 ">
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
           <div className="flex items-center justify-between py-0 md:py-0 md:block">
-            {/* <a href="/home">
+            <a href="/home">
               <img
-                className="md:h-16 mt-2 md:w-40 h-12 w-28"
-                src="https://lh5.googleusercontent.com/Tf0uHV8l4JfDG29oLIaH02HwHb7lp02rm5VZgm90z29xz69a9wJ7NGwjjldAorrauiI=w2400"
+                className="md:h-24 md:w-40 h-20 w-24"
+                src="/src/assets/techphilia.png"
                 alt="nav_logo"
               />
-            </a> */}
-            <a href="/home" style={{color:"#2867ED", fontWeight:"bold", letterSpacing:".1em"}} >TECHPHILIA 7.0</a>
+            </a>
+            {/* <a href="/home" style={{color:"#2867ED", fontWeight:"bold", letterSpacing:".1em"}} >TECHPHILIA 7.0</a> */}
             <div className="md:hidden">
               <button
                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
