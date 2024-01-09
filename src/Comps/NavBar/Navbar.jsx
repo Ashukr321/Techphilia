@@ -10,7 +10,7 @@ export default function Navbar() {
     <nav style={{background:"#FFFBF5"}} className="nav w-full fixed h-16 justify-between align-center flex z-20 ">
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
-          <div className="flex items-center justify-between py-0 md:py-0 md:block">
+          <div className="flex mt-4 items-center justify-between py-0 md:py-0 md:block">
             {/* <a href="/home">
               <img
                 className="md:h-24 md:w-40 h-20 w-24"
