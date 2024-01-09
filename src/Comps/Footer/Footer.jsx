@@ -16,8 +16,8 @@ export default function Footer() {
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
                 Find more about this event on any of these platforms.
               </h5>
-              <div className="mt-6 lg:mb-0 mb-6 flex  ">
-                <button
+              <div className="mt-6 lg:mb-0 mb-6 flex  " >
+                <button 
                   className="bg-white flex text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
