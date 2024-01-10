@@ -26,14 +26,15 @@ function About() {
             <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12 ">
 
                 <div className="md:7/12 lg:w-6/12  flex-col ">
-                    <img src="https://lh5.googleusercontent.com/Tf0uHV8l4JfDG29oLIaH02HwHb7lp02rm5VZgm90z29xz69a9wJ7NGwjjldAorrauiI=w2400" classNameName='w-[260px] h-[140px] content-center m-auto' alt="" />
-                    <p className="mt-6 text-gray-600 tracking-wide font-[Kanit]" font-bold>Long awaited and much anticipated, Amity University Patna Campus brings to you the most dynamic event, Amiphoria 2023.
-                    Sports to music to creativity, we have left nothing else to be desired. It is a 3 day extravaganza with equal parts of enthusiasm in organization and footfall.
-                    </p>
-                    <p className="mt-4 text-gray-600 tracking-wide font-[Kanit]"> Come join us as we celebrate and indulge in the joys of life and competition. This is not just a fest but an expression of liveliness and art forms. The biggest celebration of art in Bihar. Amiphoria comes with a promise to break the monotony, to give you an opportunity to recharge meet and bond with anyone and everyone who shares your passion for any kind of art.</p>
+                    <img src="/src/assets/gallery/techphilia_about_.png" classNameName='w-[260px] h-[140px] content-center m-auto' alt="" />
+                    <p className="mt-6 text-gray-600 tracking-wide font-[Kanit]" font-bold>Amity University Patna presents TechPhilia 2024 – a two-day tech and creativity extravaganza. 
+                    More than a fest, it celebrates innovation for both tech and non-tech enthusiasts. TechPhilia 2024 offers diverse events, from coding challenges for tech enthusiasts to artistic showcases. 
+                    Breaking boundaries, it redefines traditional fest norms, creating an inclusive space for enthusiasts of all backgrounds. TechPhilia is your ticket to a celebration that blends technology and creativity. 
+                    Join us for connections, memories, and the extraordinary at TechPhilia 2024 – where passion knows no bounds!</p>
+                    <p className="mt-4 text-gray-600 tracking-wide font-[Kanit]">Join us for an unforgettable experience where technology and excitement converge. TechPhilia is your gateway to a celebration that transcends norms, promising an immersive journey into the heart of innovation. Don't miss out on this extraordinary tech celebration – TechPhilia awaits with open arms!</p>
                  </div>
                 <div className="md:5/12 lg:w-6/12 shadow-2xl mt-32 about_banner_img ">
-                    <img  src="/src/assets/gallery/banner_about _.jpg" alt="image" classNameName=' md:h-96 w-full '  loading="lazy" />
+                    <img  src="/src/assets/gallery/banner_about _.png" alt="image" classNameName=' md:h-96 w-full '  loading="lazy" />
                 </div>
             
             </div>

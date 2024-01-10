@@ -11,14 +11,13 @@ export default function Navbar() {
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
           <div className="flex mt-4 items-center justify-between py-0 md:py-0 md:block">
-            {/* <a href="/home">
+            /* <a href="/home">
               <img
                 className="md:h-24 md:w-40 h-20 w-24"
                 src="/src/assets/techphilia.png"
                 alt="nav_logo"
               />
-            </a> */}
-            <a href="/home" style={{color:"#2867ED", fontWeight:"bold", letterSpacing:".1em"}} >TECHPHILIA 7.0</a>
+            </a> 
             <div className="md:hidden">
               <button
                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"
