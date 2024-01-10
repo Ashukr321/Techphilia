@@ -17,12 +17,12 @@ export default function Home() {
             TECHPHILIA 7.0
           </p>
           <p className="mb-10 font-[Kanit] text-xl max-[678px]:text-md">
-            Come join us as we celebrate and indulge in the joys of life and
-            competition. This is not just a fest but an expression of liveliness
-            and art forms. The biggest celebration of art in Bihar. Amiphoria
-            comes with a promise to break the monotony, to give you an
-            opportunity to recharge meet and bond with anyone and everyone who
-            shares your passion for any kind of art.
+          The Amity Institute of Information Technology, Amity University Patna, is happy to host the first edition of 
+          its Annual Technology Fest “Techphilia 7.0”, to be held on Wednesday, 08th February 2024 – 09th February 
+          2024. The event will give opportunity to many more students to learn, compete and gain exposure with a 
+          tinge of enjoyment. This year 10 online events are planned with a dream to make it a platform for a Grand 
+          Technological Extravaganza. We are excited to welcome all the Tech-Savvy students throughout the 
+          globe and hope to make it an unforgettable experience for each one of them.
           </p>
 
           <button
