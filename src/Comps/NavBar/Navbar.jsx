@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
           <div className="flex mt-4 items-center justify-between py-0 md:py-0 md:block">
-            /* <a href="/home">
+ <a href="/home">
               <img
                 className="md:h-24 md:w-40 h-20 w-24"
                 src="/src/assets/techphilia.png"
