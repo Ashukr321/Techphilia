@@ -1,7 +1,5 @@
 import ashutosh from '../assets/tech_team/ashutosh.jpg';
 import angel  from  '../assets/tech_team/angel.png'
-import arjun  from  '../assets/tech_team/arjun.jpg'
-
 const Developer = [
     {
         name:"Anant Kumar",
@@ -18,13 +16,6 @@ const Developer = [
         about:"Amity University Patna",
        
     },
-    {
-        name:"Ashutosh Kumar",
-        img:`${ashutosh}`,
-        profile:"https://www.linkedin.com/in/ashutosh-kumar-7ba1a6211",
-        role:"Developer",
-        about:"Amity University Patna",
-    },
    
     {
         name:"Nikhil Ranjan",
@@ -33,18 +24,17 @@ const Developer = [
         role:"Developer",
         about:"Amity University Patna",
     },
-    
     {
-        name:"Angel Singh",
-        img:`${angel}`,
-        profile:"https://www.linkedin.com/in/angel3002/",
+        name:"Ashutosh Kumar",
+        img:`${ashutosh}`,
+        profile:"https://www.linkedin.com/in/ashutosh-kumar-7ba1a6211",
         role:"Developer",
         about:"Amity University Patna",
     },
     {
-        name:"Arjun Kumar",
-        img:`${arjun}`,
-        profile:"https://www.linkedin.com/in/arjun-kumar-b89311225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app",
+        name:"Angel Singh",
+        img:`${angel}`,
+        profile:"https://www.linkedin.com/in/angel3002/",
         role:"Developer",
         about:"Amity University Patna",
     },
