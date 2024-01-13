@@ -13,13 +13,14 @@ export default function Navbar() {
     >
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
-          <div className="flex mt-2 md:mt-4 items-center justify-between py-0 md:py-0 md:block">
-            <a href="/home">
-              <img
+          <div className="flex mt-2 md:mt-2 items-center justify-between py-0 md:py-0 md:block">
+            <a href="/home" style={{color:'#225CE4', fontWeight:"bold"}} >
+              {/* <img
                 className="md:h-16 md:w-40 h-16 w-20"
                 src="/src/assets/techphilia.png"
                 alt="nav_logo"
-              />
+              /> */}
+              TECHPHILIA 7.0
             </a>
             <div className="md:hidden">
               <button
