@@ -8,15 +8,14 @@ export default function Home() {
   return (
     <>
       <div className="home flex flex-col justify-center max-[1100px]:h-[124vh]">
-        <div className="text-div max-[1100px]:mt-28 ">
+        <div className="text-div max-[1100px]:mt-32 ">
           <p className="w-auto p-10 mr-2 amity-text text-white font-bold text-3xl max-[678px]:text-xl">
             Amity Univesity Patna{" "}
           </p>
           <p className="amiphoria-text max-[678px]:text-7xl text loader">
-          
             TECHPHILIA 7.0
           </p>
-          <p className="mb-10 font-[Kanit] text-xl max-[678px]:text-md">
+          <p className="mb-10 font-[Kanit] w-full max-[678px]:text-md">
           The Amity Institute of Information Technology, Amity University Patna, is happy to host the first edition of 
           its Annual Technology Fest “Techphilia 7.0”, to be held on Wednesday, 08th February 2024 – 09th February 
           2024. The event will give opportunity to many more students to learn, compete and gain exposure with a 

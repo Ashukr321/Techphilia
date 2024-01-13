@@ -7,17 +7,20 @@ export default function Navbar() {
   const [navbar, setNavbar] = useState(false);
 
   return (
-    <nav style={{background:"#FFFBF5"}} className="nav w-full fixed h-16 justify-between align-center flex z-20 ">
+    <nav
+      style={{ background: "#F8F4EC" }}
+      className="nav w-full fixed h-16 justify-between align-center flex z-20 "
+    >
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
-          <div className="flex mt-4 items-center justify-between py-0 md:py-0 md:block">
- <a href="/home">
+          <div className="flex mt-2 md:mt-4 items-center justify-between py-0 md:py-0 md:block">
+            <a href="/home">
               <img
-                className="md:h-24 md:w-40 h-20 w-24"
+                className="md:h-16 md:w-40 h-16 w-20"
                 src="/src/assets/techphilia.png"
                 alt="nav_logo"
               />
-            </a> 
+            </a>
             <div className="md:hidden">
               <button
                 className="p-2 text-gray-700 rounded-md outline-none focus:border-gray-400 focus:border"

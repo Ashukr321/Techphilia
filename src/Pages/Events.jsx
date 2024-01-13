@@ -6,7 +6,7 @@ import './PageStyles.css'
 export default function Events() {
   return (
     
-    <div className=' events min-h-screen w-full justify-center align-center top-12 grid lg:grid-cols-3 md:grid-cols-2 md:p-36 max-[678px]:pt-16 '>
+    <div className=' events min-h-screen w-full justify-center align-center   grid lg:grid-cols-3 md:grid-cols-2 md:p-36 max-[678px]:pt-16 '>
       
     {
         Event.map((cards,index)=>{

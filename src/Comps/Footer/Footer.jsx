@@ -61,7 +61,7 @@ export default function Footer() {
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href=" "
                       ><i className="uil uil-envelope pr-2" style={{color:"#EA16C5"}}></i>
-                        amiphoriaaup23@gmail.com
+                       techphiliaaup23@gmail.com
                       </a>
                     </li>
                     <li>
