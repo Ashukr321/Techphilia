@@ -87,17 +87,7 @@ export default function Navbar() {
                   Event
                 </Link>
               </li>
-              <Link to={"/teams"}>
-                <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
-                  <Link
-                    to={"/teams"}
-                    onClick={() => setNavbar(false)}
-                    className=" hover:tracking-wider"
-                  >
-                    Team
-                  </Link>
-                </li>
-              </Link>
+              
               <Link to={"/gallery"}>
                 <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
                   <Link
