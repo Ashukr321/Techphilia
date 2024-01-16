@@ -20,27 +20,11 @@ function About() {
               </h2>
               <p className="mt-6 text-gray-600 tracking-wide font-[Kanit]">
                 {" "}
-                Amity Universtiy is ranked amongst the top 3% Unviersities
-                globally by QS-2018 ranking. Amity University, Patna is a part
-                of 25 years old, leading education group of India, set up witha
-                vision to contribute in nation builing through excellence in
-                higher education. Amity University has more than 150,000
-                students, pursuing 300 programs across campuses in India and
-                abroad.{" "}
+                Amity University Patna is a part of 25-years old, leading education group of India, set up with a vision to contribute to nation-building through education, where currently more than 1,70,000 students are pursuing 300 programs across campuses in India and abroad. Amity University Patna is yet another landmark project by Amity to revolutionize the Indian higher education sector by providing globally benchmarked, research and employment-oriented education. Amity University Patna is the youngest addition with a vision to contribute to nation building through education. It presently offers various UG and PG programs like MBA, MCA, B. Tech, B.B.A, B.C.A, B.Com, B.A (English, Psychology), BJMC, etc. located in the heart of the city at Bailey Road Patna, the transit campus is a 15 minutes' drive from airport and 25 minutes from railway station. Amity Institute of Information Technology (AIIT), Amity University Patna is one of the most prestigious and a reputed institute in Patna in the state of Bihar, India. It is preferred by many locals as well as students all over the country. In fact, considering its growth statistics, it is one of the fastest growing institutes in Patna, Bihar.{" "}
               </p>
               <p className="mt-4 text-gray-600 tracking-wide font-[Kanit] pb-10">
                 {" "}
-                Patna is a part of 25 years old, leading education group of
-                India, set up witha vision to contribute in nation builing
-                through excellence in higher education. Amity University has mor
-                e than 150,000 students, pursuing 300 programs across campuses
-                in India and abroad. Amity University has facilitated more than
-                36,000 on - campus placements in the past years. Amity is
-                research driven University with more than 6000 research
-                Publication, more than 300 on-going research projects, 500 books
-                in diverse area, 1001 patents, 1260 Management case studies in
-                areas of strategic Management, Marketing, Finance, HRM, and
-                Economics etc.
+                The Amity Institute of Information Technology, Amity University, Patna, Bihar is happy to host its Annual Technology Fest “Techphilia 7.0”, to be held on 8th and 9th February– 2024. The event will give opportunity to many students to learn, compete and gain exposure with a tinge of enjoyment. This year 10 events are planned with a dream to make it a platform for a Grand Technological Spectacular. We are excited to welcome all the Tech-Savvy students throughout the globe and hope to make it an unforgettable experience for each one of them.
               </p>
             </div>
           </div>

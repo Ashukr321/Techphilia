@@ -1,11 +1,9 @@
 import React from "react";
-import "./Footer.css"
+import "./Footer.css";
 
 export default function Footer() {
-
   return (
     <>
-    
       <footer className=" bg-white h-[30vh] absolute left-0 right-0 mt-24 bg">
         <div className="container mx-auto p-8 bg-white">
           <div className="flex flex-wrap text-left lg:text-left ">
@@ -16,21 +14,23 @@ export default function Footer() {
               <h5 className="text-lg mt-0 mb-2 text-blueGray-600">
                 Find more about this event on any of these platforms.
               </h5>
-              <div className="mt-6 lg:mb-0 mb-6 flex  " >
-                <button 
+              <div className="mt-6 lg:mb-0 mb-6 flex  ">
+                {/* <button
                   className="bg-white flex text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
                   <i className="fab fa-twitter ml-1  rotate_btn"></i>
-                </button>
-                <button
+                </button> */}
+                {/* <button
                   className="bg-white flex text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
                   <i className="fab fa-facebook-square fb rotate_btn"></i>
-                </button>
-      
-                <a href="https://www.instagram.com/amiphoriaaup2023/" target={"_blank"}
+                </button> */}
+
+                <a
+                  href="https://www.instagram.com/techphilia.aup?igsh=MTdrem5nMnY1em0yZw=="
+                  target={"_blank"}
                   className="bg-white flex justify-self-center text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
@@ -45,30 +45,41 @@ export default function Footer() {
                     Contact
                   </span>
                   <ul className="list-unstyled">
-                    
                     <li>
-
                       <a
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://amity.edu/Bihar/" target="_blank"
-                      ><i className="uil uil-university pr-2" style={{color:"#EA16C5"}} ></i>
-                       Amity University,Patna
-                       
+                        href="https://amity.edu/Bihar/"
+                        target="_blank"
+                      >
+                        <i
+                          className="uil uil-university pr-2"
+                          style={{ color: "#EA16C5" }}
+                        ></i>
+                        Amity University,Patna
                       </a>
                     </li>
                     <li>
                       <a
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
-                        href=" "
-                      ><i className="uil uil-envelope pr-2" style={{color:"#EA16C5"}}></i>
-                       techphiliaaup23@gmail.com
+                        href="mailto:aiit@ptn.amity.edu"
+                        target="_blank"
+                      >
+                        <i
+                          className="uil uil-envelope pr-2"
+                          style={{ color: "#EA16C5" }}
+                        ></i>
+                        aiit@ptn.amity.edu
                       </a>
                     </li>
                     <li>
                       <a
                         className="text-blueGray-600 flex hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href="https://creative-tim.com/privacy?ref=njs-profile"
-                      ><i className="uil uil-phone pr-2" style={{color:"#EA16C5"}}></i>
+                      >
+                        <i
+                          className="uil uil-phone pr-2"
+                          style={{ color: "#EA16C5" }}
+                        ></i>
                         7766992465,8340709860
                       </a>
                     </li>
@@ -93,7 +104,6 @@ export default function Footer() {
           </div>
         </div>
       </footer>
-  
-      </>
+    </>
   );
 }
