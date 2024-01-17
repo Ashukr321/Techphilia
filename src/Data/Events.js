@@ -57,7 +57,7 @@ const Event = [
       "https://cdn.pixabay.com/photo/2023/03/11/22/21/ai-generated-7845461_1280.jpg",
     rule: "  	The contestant must go through two rounds as mentioned below, this competition is entirely based on your coding skills.  After completing the registration contestants should click on this link to join the telegram:  About the Competition: There will be two rounds in this contest Round 1: Error Detection (20 Minutes -20 Questions) Round 2: Code Writing (40 Minutes - 02 Questions)  This contest is for individuals only.  Code directly from our platform, which supports more than 10 programming languages.  Each challenge has a pre-determined score.  All submissions will be checked through a plagiarism detector. Any case of code plagiarism will disqualify the participants from the contest. A participant's score depends on the number of test cases a participant's code submission successfully passes. Participants are ranked by score. If two or more participants achieve the same score, then the tie is broken by the total time taken to submit the last solution resulting in a higher score. The decision of the Judges will be final & binding on all the participants. ",
     Faculty_Co_ordinator: "Prof. Avinash Singh (+91 99569 20598)",
-    Student_Co_ordinator: "Aryan Baranwal (+91 70040 52628) Harshit Kumar (+91 87099 23844) Ashutosh kumar (+917004246315)",
+    Student_Co_ordinator: "Aryan Baranwal (+91 70040 52628) Harshit Kumar (+91 87099 23844)",
   },
   
 // tech sotry 

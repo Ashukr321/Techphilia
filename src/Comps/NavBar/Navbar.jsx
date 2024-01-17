@@ -88,6 +88,7 @@ export default function Navbar() {
                 </Link>
               </li>
               
+
               <Link to={"/gallery"}>
                 <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
                   <Link
@@ -99,6 +100,8 @@ export default function Navbar() {
                   </Link>
                 </li>
               </Link>
+              
+
               <Link to={"/about"}>
                 <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
                   <Link
@@ -110,6 +113,7 @@ export default function Navbar() {
                   </Link>
                 </li>
               </Link>
+
               <Link to={"/contact"}>
                 <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
                   <Link
