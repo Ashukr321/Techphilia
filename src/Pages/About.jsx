@@ -63,6 +63,7 @@ function About() {
                 celebration – TechPhilia awaits with open arms!
               </p>
             </div>
+            
             <div className="md:5/12 lg:w-6/12 shadow-2xl mt-32 about_banner_img ">
               {/* <img
                 src="/src/assets/gallery/banner_about _.png"
