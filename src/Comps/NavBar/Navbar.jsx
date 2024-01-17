@@ -8,7 +8,7 @@ export default function Navbar() {
 
   return (
     <nav
-      style={{ background: "#F8F4EC" }}
+      style={{ background: "#f7f1e3" }}
       className="nav w-full fixed h-16 justify-between align-center flex z-20 "
     >
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
