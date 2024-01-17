@@ -9,6 +9,7 @@ import ContactPage from './Pages/Contact/ContactPage';
 import About from './Pages/About';
 import Gallery from "./Pages/Gallery";
 import Error from './Pages/Error';
+// import Team from './Pages/Team';
 
 function App() {
   return (
@@ -17,11 +18,12 @@ function App() {
       <div>
         <Routes>
           <Route path="/home" element={<Home />} />
-          <Route path="" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/events" element={<Events />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/gallery" element={<Gallery/>} />
+          {/* <Route path="/team" element={<Team/>} /> */}
           <Route path="*" element={<Error />} />
         </Routes>
       </div>

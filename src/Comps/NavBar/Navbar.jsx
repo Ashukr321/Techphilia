@@ -126,6 +126,18 @@ export default function Navbar() {
                   </Link>
                 </li>
               </Link>
+
+              {/* <Link to={"/team"}>
+                <li className="nav_link_li  p-2  ">
+                  <Link
+                    to={"/team"}
+                    onClick={() => setNavbar(false)}
+                    className=" hover:tracking-wider"
+                  >
+                    Teams
+                  </Link>
+                </li>
+              </Link> */}
             </ul>
           </div>
         </div>
