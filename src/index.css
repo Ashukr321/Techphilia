@@ -23,7 +23,7 @@
   width: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(#ae7e7e, #c8bf1e);
+  background: linear-gradient(0deg, #FFB702, #0A4E95);
   border-radius: 6px;
   -webkit-border-radius: 6px;
   -moz-border-radius: 6px;

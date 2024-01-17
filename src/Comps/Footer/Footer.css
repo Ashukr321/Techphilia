@@ -16,3 +16,10 @@
 
 
 
+.footer_right_title,
+.footer_copyright{
+  background: linear-gradient(0deg, #FFB702, #0A4E95);
+  -webkit-background-clip:text;
+  font-weight:700;
+  -webkit-text-fill-color: transparent;
+}

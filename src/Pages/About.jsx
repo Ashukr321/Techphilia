@@ -15,8 +15,8 @@ function About() {
               />
             </div>
             <div className="md:7/12 lg:w-6/12">
-              <h2 className="text-2xl text-center text-gray-900 font-bold md:text-4xl pt-10 ">
-                AMITY UNIVERSITY, PATNA
+              <h2 className="text-2xl about_head text-center  md:text-4xl pt-10 ">
+                AMITY UNIVERSITY PATNA
               </h2>
               <p className="mt-6 text-gray-600 tracking-wide font-[Kanit]">
                 {" "}

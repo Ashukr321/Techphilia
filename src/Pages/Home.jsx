@@ -12,7 +12,7 @@ export default function Home() {
           <p className="w-auto mb-10 mt-4 amity-text text-white font-bold text-4xl max-[678px]:text-xl">
             Amity Univesity Patna{" "}
           </p>
-          <p className="amiphoria-text max-[678px]:text-7xl text loader">
+          <p className="amiphoria-text text max-[678px]:text-7xl text loader">
             TECHPHILIA 7.0
           </p>
 
@@ -28,9 +28,10 @@ export default function Home() {
             online events for this year, with the vision of transforming the
             fest into a Grand Technological Extravaganza.
           </p>
+
           <button
             type="button"
-            class=" btn-explore text-white bg-gradient-to-r from-blue-500 via-blue-600 to-blue-700 hover:bg-gradient-to-br  font-medium rounded-lg text-sm px-8 py-2.5 text-center  mr-2 mb-2 button-grow"
+            class="text-white bg-blue-700 hover:bg-blue-800 focus:outline-none focus:ring-4 focus:ring-blue-300 font-medium rounded-full text-sm px-10 py-2.5 text-center me-2 mb-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
           >
             <Link to={"/events"}>Explore</Link>
           </button>

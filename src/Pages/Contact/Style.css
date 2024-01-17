@@ -58,3 +58,8 @@
     animation: animate 8s linear infinite;
   }
   
+  .contact_head{
+    background: linear-gradient(0deg, #FFB702, #0A4E95);
+    -webkit-background-clip:text;
+    -webkit-text-fill-color: transparent;
+  }

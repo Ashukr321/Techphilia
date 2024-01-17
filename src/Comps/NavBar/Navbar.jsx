@@ -8,13 +8,14 @@ export default function Navbar() {
 
   return (
     <nav
-      style={{ background: "#f7f1e3" }}
+     
       className="nav w-full fixed h-16 justify-between align-center flex z-20 "
     >
       <div className=" w-full justify-between px-1 mx-auto lg:max-w-7xl md:items-center md:flex md:px-1">
         <div>
           <div className="flex mt-2 md:mt-2 items-center justify-between py-0 md:py-0 md:block">
-            <Link to="/home" style={{color:'#225CE4', fontWeight:"bold"}} >
+            {/* <Link to="/home" className="nav_logo" style={{color:'#225CE4', fontWeight:"bold"}} > */}
+            <Link to="/home" className="nav_logo" >
               {/* <img
                 className="md:h-16 md:w-40 h-16 w-20"
                 src="/src/assets/techphilia.png"
@@ -68,7 +69,7 @@ export default function Navbar() {
           >
             <ul className="items-center p-4 mt-4 justify-center  md:flex md:space-x-6 md:space-y-0">
               <Link to={"/home"}>
-                <li className="text-blue-600 p-2 hover:text-white  hover:rounded-md hover:bg-[#b359f3] ">
+                <li className="nav_link_li p-2   ">
                   <Link
                     to={"/home"}
                     onClick={() => setNavbar(false)}
@@ -78,7 +79,7 @@ export default function Navbar() {
                   </Link>
                 </li>
               </Link>
-              <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
+              <li className="nav_link_li  p-2    ">
                 <Link
                   to={"/events"}
                   onClick={() => setNavbar(false)}
@@ -90,7 +91,7 @@ export default function Navbar() {
               
 
               <Link to={"/gallery"}>
-                <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
+                <li className="nav_link_li  p-2   ">
                   <Link
                     to={"/gallery"}
                     onClick={() => setNavbar(false)}
@@ -103,7 +104,7 @@ export default function Navbar() {
               
 
               <Link to={"/about"}>
-                <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
+                <li className="nav_link_li  p-2   ">
                   <Link
                     to={"/about"}
                     onClick={() => setNavbar(false)}
@@ -115,7 +116,7 @@ export default function Navbar() {
               </Link>
 
               <Link to={"/contact"}>
-                <li className="text-blue-600  p-2 hover:text-white hover:rounded-md hover:bg-[#b359f3] ">
+                <li className="nav_link_li  p-2  ">
                   <Link
                     to={"/contact"}
                     onClick={() => setNavbar(false)}

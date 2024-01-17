@@ -8,6 +8,7 @@ import Events from './Pages/Events';
 import ContactPage from './Pages/Contact/ContactPage';
 import About from './Pages/About';
 import Gallery from "./Pages/Gallery";
+import Error from './Pages/Error';
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
           <Route path="/events" element={<Events />} />
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/gallery" element={<Gallery/>} />
-          <Route path="*" element={<Home />} />
+          <Route path="*" element={<Error />} />
         </Routes>
       </div>
       <Footer />

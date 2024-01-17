@@ -53,8 +53,8 @@ const Contact = () => {
     >
       <div className="py-8 lg:py-4 px-6 mx-auto max-w-screen-md flex flex-col items-center">
         <h2
-          style={{ letterSpacing: ".1em", color: "#1D2B53" }}
-          className="mb-4 text-4xl  tracking-tight font-extrabold text-center text-gray-900 dark:text-white"
+          style={{ letterSpacing: ".1em"}}
+          className="mb-4 contact_head text-4xl  tracking-tight font-extrabold text-center text-gray-900 dark:text-white"
         >
           Contact Us
         </h2>

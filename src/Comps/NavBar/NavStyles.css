@@ -1,7 +1,32 @@
 .nav{
-    filter: drop-shadow(0 0 2em #c7c7ceaa)
-   }
+    filter: drop-shadow(0 0 2em #c7c7ceaa)   ;
+    -webkit-filter: drop-shadow(0 0 2em #c7c7ceaa)   ;
+    background: linear-gradient(0deg,#FFFFFF,#ffffff);
+}
+
    .md-navbar{
      background: radial-gradient(#f588d8, #c0a3e5);
    }
 
+
+   .nav_logo,
+   .nav_link_li {
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #EAAE0E;
+    letter-spacing:.1em;
+    font-size:1.2rem;
+    text-shadow: 1px 1px 1px #3a5ee0,
+        1px 2px 1px #19548C,
+        1px 3px 1px #3a5ee0,
+        1px 4px 1px #3a5ee0,
+        1px 5px 1px #c8c5bb,
+        1px 6px 1px #c8c5bb,
+        1px 7px 1px #c8c5bb,
+       
+    1px 18px 6px rgba(16,16,16,0.4),
+    1px 22px 10px rgba(16,16,16,0.2),
+    1px 25px 35px rgba(16,16,16,0.2),
+    1px 30px 60px rgba(16,16,16,0.4);
+  }
+  
