@@ -35,7 +35,7 @@ export default function Footer() {
                   className="bg-white flex justify-self-center text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
-                  <i class="uil uil-instagram ig rotate_btn"></i>
+                  <i className="uil uil-instagram ig rotate_btn"></i>
                 </Link>
               </div>
             </div>
