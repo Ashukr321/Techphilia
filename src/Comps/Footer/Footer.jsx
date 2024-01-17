@@ -1,5 +1,6 @@
 import React from "react";
 import "./Footer.css";
+import { Link } from "react-router-dom";
 
 export default function Footer() {
   return (
@@ -28,14 +29,14 @@ export default function Footer() {
                   <i className="fab fa-facebook-square fb rotate_btn"></i>
                 </button> */}
 
-                <a
-                  href="https://www.instagram.com/techphilia.aup?igsh=MTdrem5nMnY1em0yZw=="
+                <Link
+                  to="https://www.instagram.com/techphilia.aup?igsh=MTdrem5nMnY1em0yZw=="
                   target={"_blank"}
                   className="bg-white flex justify-self-center text-blueGray-800 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2 button-grow "
                   type="button"
                 >
                   <i class="uil uil-instagram ig rotate_btn"></i>
-                </a>
+                </Link>
               </div>
             </div>
             <div className="w-full lg:w-6/12 ">
@@ -46,9 +47,9 @@ export default function Footer() {
                   </span>
                   <ul className="list-unstyled">
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 hover:text-blueGray-800 font-semibold block pb-2 text-sm"
-                        href="https://amity.edu/Bihar/"
+                        to="https://amity.edu/Bihar/"
                         target="_blank"
                       >
                         <i
@@ -56,12 +57,12 @@ export default function Footer() {
                           style={{ color: "#EA16C5" }}
                         ></i>
                         Amity University,Patna
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a
+                      <Link
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
-                        href="mailto:aiit@ptn.amity.edu"
+                        to="mailto:aiit@ptn.amity.edu"
                         target="_blank"
                       >
                         <i
@@ -69,10 +70,10 @@ export default function Footer() {
                           style={{ color: "#EA16C5" }}
                         ></i>
                         aiit@ptn.amity.edu
-                      </a>
+                      </Link>
                     </li>
                     <li>
-                      <a
+                      <Link
                         className="text-blueGray-600 flex hover:text-blueGray-800 font-semibold pb-2 text-sm"
                         href="https://creative-tim.com/privacy?ref=njs-profile"
                       >
@@ -81,7 +82,7 @@ export default function Footer() {
                           style={{ color: "#EA16C5" }}
                         ></i>
                         7766992465,8340709860
-                      </a>
+                      </Link>
                     </li>
                   </ul>
                 </div>
@@ -93,8 +94,8 @@ export default function Footer() {
             <div className="w-full md:w-4/12 px-4 mx-auto text-center">
               <div className="text-sm text-blueGray-500 font-semibold py-1">
                 Copyright © <span id="get-current-year">2024 </span>
-                <a
-                  href="https://www.creative-tim.com/product/notus-js"
+                <Link
+                  to="https://www.creative-tim.com/product/notus-js"
                   className="text-blueGray-500 hover:text-gray-800"
                   target="_blank"
                 />
