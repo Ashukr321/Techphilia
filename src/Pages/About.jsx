@@ -109,13 +109,12 @@ function About() {
       <br />
 
       <section class="bg-white dark:bg-gray-900">
-        <div class="py-32 px-4 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
+        <div class="py-32 px-10 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
           <div class="mx-auto mb-8 max-w-screen-sm lg:mb-16">
-            <p class="font-light  text-gray-500 sm:text-xl dark:text-gray-400">
+            <p class="font-bold  text-grey-500 sm:text-xl dark:text-grey-500">
               {" "}
-              Discover this website meticulously developed and managed by our
-              developer's team within the Techphilia Tech Team. For any
-              inquiries, feel free to contact our dedicated point of contact.
+              
+Explore this meticulously crafted website brought to life by the brilliant minds at Techphilia Tech Team. For any questions or curiosities, don't hesitate to reach out to our dedicated point of contact. Your journey into the world of technology awaits – dive in!
             </p>
           </div>
           <div class="grid gap-8 lg:gap-16 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
