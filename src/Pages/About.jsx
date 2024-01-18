@@ -93,14 +93,14 @@ function About() {
                 extraordinary tech celebration – TechPhilia awaits with open arms!
               </p>
             </div>
-
+{/*}
             <div className="md:5/12 lg:w-6/12 shadow-2xl mt-32 about_banner_img ">
                <img
                 src="/src/assets/gallery/banner_about _.png"
                 alt="image"
                 classNameName=" md:h-96 w-full "
                 loading="lazy"
-              />
+              />*/}
             </div>
           </div>
         </div>
