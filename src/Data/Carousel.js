@@ -12,7 +12,7 @@ import img11 from "../assets/gallery/11.jpg";
 import img12 from "../assets/gallery/12.jpg";
 import img13 from "../assets/gallery/13.jpg";
 import img14 from "../assets/gallery/14.jpg";
-
+import img15 from "../assets/gallery/15.jpg";
 
 const slider = [
   { id: 1, url: img1 },
@@ -38,6 +38,6 @@ const slider = [
   { id: 12, url: img12 },
   { id: 13, url: img13 },
   { id: 14, url: img14 },
-  
+  { id: 15, url: img15 },
 ];
 export default slider;
