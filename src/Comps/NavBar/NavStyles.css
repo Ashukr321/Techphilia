@@ -1,7 +1,7 @@
 .nav{
     filter: drop-shadow(0 0 2em #c7c7ceaa)   ;
-    -webkit-filter: drop-shadow(0 0 2em #c7c7ceaa)   ;
-    background: linear-gradient(0deg,#ffffff57,#ffffff);
+    -webkit-filter: drop-shadow(0 0 2em #c7c7cef0)   ;
+    background: linear-gradient(0deg,#ffffffdd,#ffffff);
 }
 
    .md-navbar{
