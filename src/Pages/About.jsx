@@ -13,7 +13,7 @@ function About() {
           <div className="space-y-6 md:space-y-0 md:flex md:gap-6 lg:items-center lg:gap-12">
             <div className="md:5/12  lg:w-5/12  shadow-2xl about_top_image">
               <img
-                src="https://amispardha.vercel.app/university.jpg"
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhLc1-WRk5KR21Ur9-N_QXOEj_4ZT1FsN5-6beJUeakUfTA20OdTprRdvfvmH9aPY-unI_T-WfJY9GdEct2jd8U7nLLndPxO7qfawUPVJ5GplElTTq9icnnsfs-dD2yRQ29G386_iJrLzW8aU4RJkMlKF3AjEVmufwdRcj68C_QfVnWu3BdfSruT64r0XY/s16000/aup.jpg"
                 alt="image"
                 loading="lazy"
                 classNameName=" h-80"
