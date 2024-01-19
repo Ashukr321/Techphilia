@@ -94,16 +94,17 @@ function About() {
                 arms!
               </p>
             </div>
-            {/*}
+            
             <div className="md:5/12 lg:w-6/12 shadow-2xl mt-32 about_banner_img ">
                <img
-                src="/src/assets/gallery/banner_about _.png"
+                src="/src/assets/gallery/4.jpg"
                 alt="image"
                 classNameName=" md:h-96 w-full "
                 loading="lazy"
-              />*/}
+              />
           </div>
         </div>
+      </div>
       </div>
 
       <br />
@@ -111,7 +112,7 @@ function About() {
       <section class="bg-white dark:bg-gray-900">
         <div class="py-32 px-10 mx-auto max-w-screen-xl text-center lg:py-16 lg:px-6">
           <div class="mx-auto mb-8 max-w-screen-sm lg:mb-16">
-            <p class="font-bold  text-grey-500 sm:text-xl dark:text-grey-500">
+            <p class="font-bold  text-grey-500 sm:text-xl dark:text-grey-400">
               {" "}
               
 Explore this meticulously crafted website brought to life by the brilliant minds at Techphilia Tech Team. For any questions or curiosities, don't hesitate to reach out to our dedicated point of contact. Your journey into the world of technology awaits – dive in!
@@ -377,7 +378,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
 
                 <li>
                   <Link
-                    to="https://github.com/Ashukr321"
+                    to="https://github.com/"
                     target="_blank"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
@@ -397,7 +398,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
                 </li>
                 <li>
                   <Link
-                    to="mailto:coderashukr321@gmail.com"
+                    to="mailto:keshav913ptn@gmail.com"
                     target="_blank"
                     class="text-[#ea4c89] hover:text-gray-900 dark:hover:text-white"
                   >

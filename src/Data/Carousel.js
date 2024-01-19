@@ -1,5 +1,5 @@
 import img1 from "../assets/gallery/1.jpg";
-import img2 from "../assets/gallery/2.jpg";
+import img2 from "../assets/gallery/2.webp";
 import img3 from "../assets/gallery/3.jpg";
 import img4 from "../assets/gallery/4.jpg";
 import img5 from "../assets/gallery/5.jpg";
@@ -7,12 +7,13 @@ import img6 from "../assets/gallery/6.jpg";
 import img7 from "../assets/gallery/7.jpg";
 import img8 from "../assets/gallery/8.jpg";
 import img9 from "../assets/gallery/9.jpg";
-import img10 from "../assets/gallery/10.jpg";
+import img10 from "../assets/gallery/10.webp";
 import img11 from "../assets/gallery/11.jpg";
 import img12 from "../assets/gallery/12.jpg";
 import img13 from "../assets/gallery/13.jpg";
-import img14 from "../assets/gallery/14.jpg";
+import img14 from "../assets/gallery/14.webp";
 import img15 from "../assets/gallery/15.jpg";
+import img16 from "../assets/gallery/16.jpg";
 
 const slider = [
   { id: 1, url: img1 },
@@ -39,5 +40,7 @@ const slider = [
   { id: 13, url: img13 },
   { id: 14, url: img14 },
   { id: 15, url: img15 },
+  { id: 16, url: img16 },
+
 ];
 export default slider;
