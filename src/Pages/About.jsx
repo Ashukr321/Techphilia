@@ -97,10 +97,10 @@ function About() {
             
             <div className="md:5/12 lg:w-6/12 shadow-2xl mt-32 about_banner_img ">
                <img
-                src="/src/assets/gallery/4.jpg"
+                src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieJZoz52GopwoTF9SNuVaGlAXg6kRUFsZle7x2dec1GwcSGvHDGFJ7krhFSXTW9kiFt4XtX2OEkdVBfxvK6VALnzCrntguPH3AyBujnIFYJhSmcUefx9bSF1MuIoexi4TA-tVN-RoKsjcKfMZYsz4h763oUFSw8GuUbK_2cOZmJWdZUOHHMkt8Ts4U0V4/w640-h300/4.jpg"
                 alt="image"
-                classNameName=" md:h-96 w-full "
                 loading="lazy"
+                classNameName=" h-80"
               />
           </div>
         </div>
