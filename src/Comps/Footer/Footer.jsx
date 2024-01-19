@@ -69,19 +69,19 @@ export default function Footer() {
                           className="uil uil-envelope pr-2"
                           style={{ color: "#EA16C5" }}
                         ></i>
-                        aiit@ptn.amity.edu
+                        techphilia7@gmail.com
                       </Link>
                     </li>
                     <li>
                       <Link
                         className="text-blueGray-600 flex hover:text-blueGray-800 font-semibold pb-2 text-sm"
-                        href="https://creative-tim.com/privacy?ref=njs-profile"
+                         to="tel:9931208921"
                       >
                         <i
                           className="uil uil-phone pr-2"
                           style={{ color: "#EA16C5" }}
                         ></i>
-                        7766992465,8340709860
+                        9931208921 , 8927085473 , 9334625506
                       </Link>
                     </li>
                   </ul>
