@@ -69,7 +69,7 @@ export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_
             <Button onClick={open} variant={"light"}>
               Info
             </Button>
-            <Link to={formUrl}>
+            <Link to={"https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform"}>
               <Button variant={"light"}>
               Register
             </Button>
