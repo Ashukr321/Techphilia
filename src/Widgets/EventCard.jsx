@@ -44,7 +44,7 @@ export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_
           <br />
           <p className='text-black'> <strong>Student Co-ordinator- </strong> {Student_Co_ordinator} </p> 
 
-          <Link href={formUrl} className='flex m-10 align-center justify-center'  target="_blank">
+          <Link to={formUrl} className='flex m-10 align-center justify-center'  target="_blank">
           <Button  variant={"light"}>
               Register
             </Button>
@@ -69,7 +69,7 @@ export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_
             <Button onClick={open} variant={"light"}>
               Info
             </Button>
-            <Link to={formUrl}>
+            <Link to={formUrl}  target='_blank'>
               <Button variant={"light"}>
               Register
             </Button>
