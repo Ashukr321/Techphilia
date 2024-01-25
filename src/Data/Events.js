@@ -39,7 +39,7 @@ const Event = [
 
   //4 
   {
-    title: "WEB-TECH:- Website Designing Supported By Google Development Group",
+    title: "WEB-TECH:- Website Designing Supported By Google Developer Group",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTO1yTQIWpkO2TWHgAwkvRrt_QUg23ywRf7YrfE-sApC28KiUytoNbhGfPACDpTSpEJK9ouorOPVtcxTTcu7CiY5Hq0pk0ug506t_BL3YZKeC1gcusBFWssGxcEqkBBnvY9EE7QjXE5hSZidGYLR4yb-GHtLDVovxNlTVWpIVrKxdY4Rj1b61wAmTmHAA/s320/11.png",
@@ -51,7 +51,7 @@ const Event = [
 
 //   5
   {
-    title: "CODE-A-VITA:- Debug Code  Supported By Google Development Group ",
+    title: "CODE-A-VITA:- Debug Code  Supported By Google Developer Group ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5UdQyTaauG5JyjLNQ-m7OcokuATNVygFzlsnejMZbdeKgw0P5QJCt3ECWIT6AHupas2RSQ2V0bRhqlFlgXSDhKv0hPR4crVmP4Icw3ymf-8kSExrpUAsPk0ybg-LB1Qn-_zDqsJs5L_ezpYmHflttKluusRE-HAkIx-aq8IQfRNDh0m7mInsijsxwARM/s320/10.png",

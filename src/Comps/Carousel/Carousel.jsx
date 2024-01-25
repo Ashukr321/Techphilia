@@ -23,7 +23,7 @@ export default function CarouselImages() {
     <div className='pl-8 pr-8'>
        <Carousel
         responsive={responsive}
-         dotListClass="custom-dot-list-style"
+        dotListClass="custom-dot-list-style"
         itemClass="carousel-item-padding-40-px"
         showDots={false}
         customTransition 
