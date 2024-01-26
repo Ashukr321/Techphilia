@@ -24,10 +24,10 @@ const Contact = () => {
 
     try {
       const result = await emailjs.sendForm(
-        "service_pyig9zi",
+        "service_xknftyr",
         "template_m696q0t",
         form.current,
-        "bMTL6Zknv7ut5rQre",
+        "wyfp2jnVkkQEo4Aol",
         data
       );
 
