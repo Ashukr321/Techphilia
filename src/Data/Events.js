@@ -2,10 +2,10 @@ const Event = [
   // 1
   {
     title: "AMIVOGUE- Fashion Show",
-    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
+    formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSdKOiiMSjaNLP8OJ7f3rQSB92dY-6szfdppCEKGG2V7UMUtUw/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeScBzvEF9t8gp2tDUEOSMTq2Y2DPaLHGlRWxPfXQgKwJflcD_QErGEDkbbnjJ4pw0Q0Dw90Gdp6E3TZNtAviylO4_A03PMUyKhfviTFVOnUrX5_y_aH-lkY3729uyZLIx28Lpdn5_XKjJcbPfYdmxVI_VSCfNQpFPWT0fbV0pkXyGujonaJGul6dn7Vs/s320/7.png",
-    rule: "Each participant/team will be given maximum 10 minutes time to speak either in favour or against of the subject  .Warning bell will be given after 8 minutes and a final bell after 10 minutes. If the participants exceed the allocated time then the marks will be deducted at the discretion of the judges. In the 1st round each debate will be a knockout battle so after the completion of round 1 half of the team will qualify. A spin wheel will spin and the 2-team facing each other will be decided and same which team will go for the motion and against the motion will be decided through spin wheel also.Result of 1st round will be declared by the judges as every 2 team debates and it should be the final decision.In round 2 topic will be declared on the spot and after the end of round 2, top 3 team will be the winner of CLASH OF THE MIND – DEBATE COMPETITION.The decision of the Judge shall be final& binding on all the participants.",
+    rule: "It is a team event. A team can have maximum 6 members. Time limit for every team will be 6 minutes (Including the setup and the performance both). Negative marking if the participants exceed time limit. Audio track should be submitted in advance. Vulgarity is strongly prohibited. Any form of obscenity will lead to debarring the team from the contest. Teams will be judged on costume, theme, walking stance, attitude, and tag line. Each group should have one tag line representing their group and he theme (Style Icon of the Year).Decision of the judges will be final and binding. All costumes are permitted, maintaining ecency, originality & fashion designs. Purchased, professionally made, or rented costumes are permitted.",
     Faculty_Co_ordinator:
       "	Prof. Dheeraj Kumar (+91 85951 03275) 	Prof. Satakshi (+91 82920 67811)",
     Student_Co_ordinator:
