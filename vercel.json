@@ -17,6 +17,10 @@
             "dest":"/"
         },
         {
+            "src":"/gallery",
+            "dest":"/"
+        },
+        {
             "src":"/home",
             "dest":"/"
         }
