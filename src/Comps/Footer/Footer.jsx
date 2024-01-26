@@ -62,7 +62,7 @@ export default function Footer() {
                     <li>
                       <Link
                         className="flex text-blueGray-600 hover:text-blueGray-800 font-semibold pb-2 text-sm"
-                        to="mailto:aiit@ptn.amity.edu"
+                        to="mailto:techphilia7@gmail.com"
                         target="_blank"
                       >
                         <i
