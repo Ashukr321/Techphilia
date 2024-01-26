@@ -16,7 +16,7 @@ const Event = [
   //   2
 
   {
-    title: "CLASH OF MIND:- Debate Competition",
+    title: "CLASH OF MIND:- Debate Competition (School & University) ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8S7aUrtg0qNgZJYLeOE47YH-txFPw_zNZQq-fmudFFS59fQX-9mI_xwKvKi7KEnSgE0bfIBQ5_6cyqt2MZrGpq3WaGAShpnwW8DU5AwXDvWSeWDaY-tk0-iTXf1CgQPz-zuWx3LF0RFqlR7VBcW6TL6pyYuCQPNcrSQ-xb5_-vG-3TKl6Ypzzlr2KmSE/s16000/8.png",
@@ -30,7 +30,7 @@ const Event = [
 
 //   3 
 {
-    title: "POSTEROLIC:- Poster Making Competition THEME:- Bihar's Epochs ",
+    title: "POSTEROLIC:- Poster Making Competition THEME:-Impact of Technology On Environment (School & University) ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjphabn1moMmFb_wQCWP3Wfqibkcg3FJahmoRsLROHWxY2Eroev3h3HvG7_A1gCYpzM93egfLwg9r9BwaUfYFtkKcpgXbMMU_EJfrDlKAjUFsb8Isonq8IqLeOtA56LEAkDKfxhjSEJ0gif5LoyzjJ69dneHpN7JebGkJIby0M7pRfdDsqOa0E7kBFyhQA/s320/5.png",
@@ -101,7 +101,7 @@ const Event = [
 
 
   {
-    title: " TECHQUIZ:- Technical Quiz",
+    title: " TECHQUIZ:- Technical Quiz (School & University) ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKtUl856t_SxoGJGg-d4XgYRgM9MpPWNmz2NrNummcGGwVAn1jRHDlFWO7gTclMHWUiJQ4BLhRbsRAT61cJjGyXckgAMIV2TXMByLIlsPE4ZzloGnDnkFaKrudQm97tAWq6zxL3AInpZrR5R9_EIbWbLXTkZnK21iKCG-byCDJRoeBXBM_0R0mXhf8FFc/s320/1.png",
@@ -115,7 +115,7 @@ const Event = [
 
 
   {
-    title: " TREASURE HUNT",
+    title: " TREASURE HUNT (School & University) ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQmmxHWYm08OKosH1ZBDBnboY_3JBiEatE73pVcp7iJ9C_blhJFU_QSlZnjd3F5QSsLZuBqpzAdjYXW61uMH1Oxhvb3zcxlY4jrRRlvZq9JTqsCW9VT-S-uFWAS0WP_eUP3EkDVR5OakQWYEATwR7b0Ta-tn_D_HDbTf1YIJ2-oTSZmraiRPDV5trrLak/s320/3.png",
