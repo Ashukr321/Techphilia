@@ -11,7 +11,7 @@ export default function Events() {
     {
         Event.map((cards,index)=>{
             return(
-                <EventCard  title={cards.title} imgUrl={cards.imgURL} Faculty_Co_ordinator={cards.Faculty_Co_ordinator} Student_Co_ordinator={cards.Student_Co_ordinator} rule={cards.rule} key={index} formUrl={cards.formUrl} />
+                <EventCard  title={cards.title} imgUrl={cards.imgURL} Faculty_Co_ordinator={cards.Faculty_Co_ordinator} Student_Co_ordinator={cards.Student_Co_ordinator}  Faculty_Co_ordinator_School={cards.Faculty_Co_ordinator_School} Student_Co_ordinator_School={cards.Student_Co_ordinator_school} rule={cards.rule} key={index} formUrl={cards.formUrl} />
             )
         })
     }

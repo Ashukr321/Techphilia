@@ -9,7 +9,7 @@ import { Divider } from '@mantine/core';
 import Aos from 'aos';
 import 'aos/dist/aos.css'
 import { Link } from 'react-router-dom';
-export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_Co_ordinator, formUrl, rule }) {
+export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_Co_ordinator,Faculty_Co_ordinator_School,Student_Co_ordinator_School, formUrl, rule }) {
   const [loaded, setLoaded] = useState(false)
   const [opened, { open, close }] = useDisclosure(false);
   const theme = useMantineTheme();
@@ -43,6 +43,10 @@ export default function EventCard({ imgUrl, title, Faculty_Co_ordinator,Student_
           <p className='text-black'>  <strong>Faculty Co-ordinator-</strong>{Faculty_Co_ordinator} </p >
           <br />
           <p className='text-black'> <strong>Student Co-ordinator- </strong> {Student_Co_ordinator} </p> 
+          <br/>
+          <p className='text-black'> <strong>Faculty Co-ordinator School- </strong> {Faculty_Co_ordinator_School} </p> 
+          <br/>
+          <p className='text-black'> <strong>Student Co-ordinator School- </strong> {Student_Co_ordinator_School} </p> 
 
           <Link to={formUrl} className='flex m-10 align-center justify-center'  target="_blank">
           <Button  variant={"light"}>

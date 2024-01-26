@@ -10,7 +10,8 @@ const Event = [
       "	Prof. Dheeraj Kumar (+91 85951 03275) 	Prof. Satakshi (+91 82920 67811)",
     Student_Co_ordinator:
       " Sakshi Singh (+91 79798 37332) Prince Kumar(+91 89270 85473)  Tanya Kumari (+91 93346 25506)",
-  },
+
+    },
 
   //   2
 
@@ -22,7 +23,9 @@ const Event = [
     rule: "Each participant/team will be given maximum 10 minutes time to speak either in favour or against of the subject.  Warning bell will be given after 8 minutes and a final bell after 10 minutes. If the participants exceed the allocated time then the marks will be deducted at the discretion of the judges.  In the 1st round each debate will be a knockout battle so after the completion of round 1 half of the team will qualify. A spin wheel will spin and the 2-team facing each other will be decided and same which team will go for the motion and against the motion will be decided through spin wheel also. Result of 1st round will be declared by the judges as every 2 team debates and it should be the final decision. In round 2 topic will be declared on the spot and after the end of round 2, top 3 team will be the winner of CLASH OF THE MIND – DEBATE COMPETITION.The decision of the Judge shall be final& binding on all tparticipants.",
     Faculty_Co_ordinator: "	Prof. Neeraj Rai (+91 70705 56501)",
     Student_Co_ordinator:
-      "Kamini Chourasia(+91 77599 06547)	Riya Kumari(+91 72959 81279)",
+      "Kamini Chourasia(+91 77599 06547)",
+      Faculty_Co_ordinator_School:  "Prof. Abhinav Sahay (+91 9117506246)",
+      Student_Co_ordinator_school:     "Riya Kumari (+91 7295981279)",
   },
 
 //   3 
@@ -34,7 +37,9 @@ const Event = [
     rule: " 	Each Participant can make only one Poster. The poster must be made on the A3 size sheet with margins (0.5 inches) drawn with black pen/marker. Poster can be made using pencil, crayon, watercolour, oil paint, etc. Photographs, wires, other 3D objects, print-outs won’t be acceptable. It should be original and hand made. The Topic of poster and theme should be clearly mentioned at the Top Margin of the Poster.  Poster should not contain any personal details like Name, Class, College etc. of the participants. These details should be mentioned in registration form only. Participant should explain the poster describing the topic and content of the poster. Student can explain their posters in either English, or Hindi Languages. Judgement Criteria: Relevance to the theme.  Originality Artistic composition. Message conveyed by the poster.  Effectiveness in communicating the intended message. The decision of the Judge shall be final& binding on all the participants . ",
     Faculty_Co_ordinator: "	Prof. Avishek Choudhuri (+91 81022 24919)",
     Student_Co_ordinator:
-      "Sharmeen Emam (+91 87091 56051) Smriti Prasad (+91 74888 74255)  Tanya Bharti (+91 89553 39297) ",
+      "Sharmeen Emam (+91 87091 56051) Smriti Prasad (+91 74888 74255) ",
+      Faculty_Co_ordinator_School: "Prof. Avishek Choudhuri (+91 81022 24919)",
+      Student_Co_ordinator_school:"Tanya Bharti (+91 89553 39297) ",
   },
 
   //4 
@@ -102,7 +107,9 @@ const Event = [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKtUl856t_SxoGJGg-d4XgYRgM9MpPWNmz2NrNummcGGwVAn1jRHDlFWO7gTclMHWUiJQ4BLhRbsRAT61cJjGyXckgAMIV2TXMByLIlsPE4ZzloGnDnkFaKrudQm97tAWq6zxL3AInpZrR5R9_EIbWbLXTkZnK21iKCG-byCDJRoeBXBM_0R0mXhf8FFc/s320/1.png",
     rule: "   	  	Article 1: Subject Amity Institute of Information Technology (Amity University, Patna) is organizing an quiz as an event of  TECHPHILIA. This quiz is named “TECHQUIZ” and is on the theme of Information Technology. The quiz consists in a multiple choice questionnaire based on the Information Technology. The winners will be chosen through an automatic draw from the names of the participants who have realized a perfect score.   Article 2: Conditions of participation Participation in the quiz is free and open to all students from Class 9 Standards.  Team TECHPHILIA reserves the right to conduct necessary checks in order to verify the identity, e-mail address, School/College Verification etc. of the participants. The participants who have given incomplete or inaccurate personal and contact details will be disqualified for the draw, as will be the participant who refuses that their personal details – which are necessary for the quiz – be collected, kept and used. Participation in the quiz implies that participants accept the integrality of these rules.  The decision of the quiz-master will be final and will not be subjected to any change. The participants shall not be allowed to use mobile or other electronic instruments.  The questions shall be in the form of multiple choice, True / False statement, Specific answer question etc.  Replacement of any participant is not allowed after registration  PRELEMINARY ROUND Each participant will get 30 multiple choice objective type questions Time limit - 15 minutes (No negative marking) Only 30 participants would be selected for STAGE ROUNDS In case of tie between 2 or more participants, further 5 questions would be asked for final selection The selected teams shall have to appear for the final round FINAL QUIZ-STAGE ROUNDS   Round 1 Participants will get 25 multiple choice objective type questions Time limit - 10 minutes Participant must have to attempt all questions. 2 marks for correct answer and negative marks for wrong answer (0.25 marks for each wrong answer). Only 15 participants would be selected for RAPID FIRE ROUND  Round 2- RAPID FIRE ROUND Participants will get 20 multiple choice objective type questions Time limit - 5 minutes Participant must have to attempt all questions. 2 marks for correct answer and negative marks for wrong answer (0.25 marks for wrong answer). Only 3 participants would be selected as Winners*.  The decision of the Judge shall be final& binding on all the participants ",
     Faculty_Co_ordinator: "Prof. Prasanna Kumar (+91 90976 21926)",
-    Student_Co_ordinator: "Nehal Kumar (+91 76340 49036) Avanya Sinha (+91 91536 08163) Sameer Hassan (+91 6205 254 080) ",
+    Student_Co_ordinator: " Avanya Sinha (+91 91536 08163) Sameer Hassan (+91 6205 254 080) ",
+    Faculty_Co_ordinator_School:"Dr. Naveen Kumar Singh (+91 8807123596)",
+    Student_Co_ordinator_school:"Nehal Kumar (+91 76340 49036)",
   },
 
 
@@ -114,7 +121,9 @@ const Event = [
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQmmxHWYm08OKosH1ZBDBnboY_3JBiEatE73pVcp7iJ9C_blhJFU_QSlZnjd3F5QSsLZuBqpzAdjYXW61uMH1Oxhvb3zcxlY4jrRRlvZq9JTqsCW9VT-S-uFWAS0WP_eUP3EkDVR5OakQWYEATwR7b0Ta-tn_D_HDbTf1YIJ2-oTSZmraiRPDV5trrLak/s320/3.png",
     rule: "   	   	Teams must consist of the predetermined number of participants. No participant can be a part of more than one team. Participants must adhere to all rules and guidelines provided by the organizers. Any violation may result in disqualification. Participants must start the treasure hunt from the designated starting point. The first clue will be provided at this location.  Clues must be followed in sequential order. Skipping clues is not allowed.  Participants must be conscious of the time limit set for the event. Late arrivals at the finishing point may face penalties.  Participants must rely solely on their team's knowledge and abilities. Seeking help from outsiders or other teams is not allowed. Report any issues, concerns, or emergencies immediately to event organizers.  Engage in fair play and good sportsmanship. Avoid hindering other teams' progress intentionally. All team members must arrive at the finishing point to complete the treasure hunt. Teams finishing after the time limit may not be eligible for prizes.",
     Faculty_Co_ordinator: "Prof. Avinash Singh (+91 99569 20598)",
-    Student_Co_ordinator: "o	Ayush Raj (+91 82940 21111) Dev Raj (+91 91429 69647) SS Noor Ashiya Matin (+91 98521 03237) Anurag Kumar (+91 77398 01696) ",
+    Student_Co_ordinator: "Ayush Raj (+91 82940 21111) Dev Raj (+91 91429 69647) SS Noor Ashiya Matin (+91 98521 03237) Anurag Kumar (+91 77398 01696) ",
+    Faculty_Co_ordinator_School:"Dr. Avinash Kumar (+91 9801021525)",
+    Student_Co_ordinator_school:"Shriyam Sinha (+91 9608550065) Vivek Kumar (+91 6202192292) Surabhi Singh (+91 7992345048)",
   },
 
 ];
