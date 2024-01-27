@@ -122,7 +122,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
                 src={angel}
-                alt="Bonnie Avatar"
+                alt="Angel Singh"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <Link
@@ -197,7 +197,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
                 src={ashutosh}
-                alt="Bonnie Avatar"
+                alt="Ashutosh Kumar"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <Link
@@ -211,7 +211,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <ul class="flex justify-center mt-4 space-x-4">
                 <li>
                   <Link
-                    to="#"
+                    to="https://twitter.com/Ashukr321"
                     target="_blank"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
@@ -271,7 +271,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
                 src={nikhil}
-                alt="Bonnie Avatar"
+                alt="Nikhil Ranjan"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <Link
@@ -346,7 +346,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <img
                 class="mx-auto mb-4 w-36 h-36 rounded-full"
                 src={keshav}
-                alt="Bonnie Avatar"
+                alt="Keshav Kant Mishra"
               />
               <h3 class="mb-1 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                 <Link
@@ -360,7 +360,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <ul class="flex justify-center mt-4 space-x-4">
                 <li>
                   <Link
-                    to="#"
+                    to="https://twitter.com/keshav_mishra04"
                     target="_blank"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
