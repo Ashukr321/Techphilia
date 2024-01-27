@@ -136,7 +136,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <ul class="flex justify-center mt-4 space-x-4">
                 <li>
                   <Link
-                    to="#"
+                    to="https://twitter.com/br31mehul"
                     target="_blank"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
