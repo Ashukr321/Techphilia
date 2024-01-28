@@ -285,7 +285,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
               <ul class="flex justify-center mt-4 space-x-4">
                 <li>
                   <Link
-                    to="#"
+                    to="https://www.twitter.com/Ma_nny_junior"
                     target="_blank"
                     class="text-[#00acee] hover:text-gray-900 dark:hover:text-white"
                   >
@@ -301,7 +301,7 @@ Explore this meticulously crafted website brought to life by the brilliant minds
                 </li>
                 <li>
                   <Link
-                    to="https://github.com/Ashukr321"
+                    to="https://github.com/Dcoder-Nikhil"
                     target="_blank"
                     class="text-gray-900 hover:text-gray-900 dark:hover:text-white dark:text-gray-300"
                   >
