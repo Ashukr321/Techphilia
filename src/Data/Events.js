@@ -30,7 +30,7 @@ const Event = [
 
 //   3 
 {
-    title: "POSTEROLIC:- Poster Making Competition THEME:-Impact of Technology On Environment (School & University) ",
+    title: "POSTEROLIC:- Poster Making Competition THEME:-Heritage of Bihar & Impact of Technology On Environment (School & University) ",
     formUrl: "https://docs.google.com/forms/d/e/1FAIpQLSecJ2veaxfRe2Q1Jn53pRH3pRQbW2L7QfDN3VhY7gyGPrn6-A/viewform",
     imgURL:
       "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIAvkrOWA_FekN8S5URk58DqHoc-vlPw3Pl-PiyDby1AhQTUif1SYyMZloOh2fbRDErl5cEeXV5OJUP2QrXGc2aDQDAplQqCLpHo4qHyALX5vVlHlSgV_Q6T5HWQvDdnuNy8X79mkR6bVO22T_0tk48zEvaB244OViCONs867e6uHah-dP8iLq4JPUnOI/s2245/5.png",
