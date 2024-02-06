@@ -1,0 +1,44 @@
+/* Marquee.css */
+.marquee-container {
+    position: fixed;
+    bottom: 45;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    cursor: pointer;
+  }
+  
+  
+  .marquee {
+    display: inline-block;
+    white-space: nowrap;
+    animation: marquee 25s linear infinite;
+  }
+  
+  .marquee-content {
+    display: inline-block;
+    color: red; /* Change the color as needed */
+    font-weight: bold; /* Make the font bold */
+  }
+  
+  .marquee-container::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 255, 0, 0.3); /* Yellowish color with 30% opacity */
+    backdrop-filter: blur(10px); /* Blur effect */
+    z-index: -1; /* Behind the content */
+  }
+  
+  @keyframes marquee {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
+  }
+  
